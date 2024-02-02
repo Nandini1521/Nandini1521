@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on [my university project based on predicting rocket landing outcomes](https://github.com/Nandini1521/CapstoneProject_Uni)
 
-- 🌱 I’m currently learning **AWS Cloud Practitioner Exam**
+- 🌱 I’m currently learning for the **AWS Cloud Practitioner Exam**
 
 - 🤝 I’m looking for help with **finding a job**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nandini1521](https://github.com/Nandini1521)
 
-- 📫 How to reach me **nandiniwork1521@gmail.com**
+- 📫 How to reach me: **nandiniwork1521@gmail.com**
 
-- 📄 Know about my experiences [A physics graduate exploring the world of data science. I am interested in cloud technologies, machine learning and data visualization.](A physics graduate exploring the world of data science. I am interested in cloud technologies, machine learning and data visualization.)
+- 📄 Know about my experiences [I am a physics graduate exploring the world of data science. I am interested in cloud technologies, machine learning, and data visualization.](A physics graduate exploring the world of data science. I am interested in cloud technologies, machine learning and data visualization.)
 
-- ⚡ Fun fact **I am a certified scuba diver.**
+- ⚡ Fun fact **I am a certified scuba diver!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
