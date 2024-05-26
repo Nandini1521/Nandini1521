@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nandini Mehta</h1>
-<h3 align="center">A Master of Data Science student graduating in July 2024. Looking for entry-level positions.</h3>
+<h3 align="center">A Master of Data Science student graduating in July 2024. Actively looking for work.</h3>
 
 - 🔭 I’m currently working on [my university project based on predicting rocket landing outcomes](https://github.com/Nandini1521/CapstoneProject_Uni)
 
-- 🌱 I’m currently learning for the **AWS Cloud Practitioner Exam**
+- 🌱 I’m currently completing an **LinkedIn PowerBI certificate**
 
 - 🤝 I’m looking for help with **finding a job**
 
