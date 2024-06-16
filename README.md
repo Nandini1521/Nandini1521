@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nandini Mehta</h1>
 <h3 align="center">A Master of Data Science student graduating in July 2024. Looking for entry level positions.</h3>
 
-- 🔭 I’m currently working on **creating a simple game**
+- 🔭 I’m currently working on **Making a simple video game**
 
 - 🌱 I’m currently learning **App Development**
 
