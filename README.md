@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nandiniwork1521@gmail.com**
 
-- 📄 Know about my experiences: A physics graduate exploring the world of data science. I am interested in cloud technologies, machine learning and data visualization.
+- 📄 Know about my experiences: A physics and data science graduate interested in cloud technologies, machine learning and data visualization.
 
 - ⚡ Fun fact **I am a certified scuba diver.**
 
